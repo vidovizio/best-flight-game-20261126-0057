@@ -1,0 +1,6 @@
+[
+  { "name": "01-cover.png", "query": "?shot=cover&seed=1" },
+  { "name": "02-delivery.png", "query": "?shot=delivery&seed=1" },
+  { "name": "03-rings.png", "query": "?shot=rings&seed=1" },
+  { "name": "04-survey.png", "query": "?shot=survey&seed=1" }
+]
